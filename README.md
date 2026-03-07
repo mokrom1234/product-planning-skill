@@ -1,6 +1,6 @@
 # Product Planning Skill
 
-基於 **Double Diamond（雙菱形）** 方法論的產品企劃引導工具，幫助你從零到一系統性地完成產品企劃。
+基於 [Mr.PM](https://mrpm.cc)的[產品企劃方法論](https://www.pressplay.cc/project/757DCE83D2D7FE4573DC4DF02F2B5569/)產品企劃方法論的產品企劃引導工具，幫助你從零到一系統性地完成產品企劃。
 
 ## 這個 Skill 做什麼？
 

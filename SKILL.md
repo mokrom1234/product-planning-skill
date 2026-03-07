@@ -1,7 +1,7 @@
 ---
 name: product-planning
 description: |
-  產品企劃實作框架引導工具。基於 Mr. PM 的 Double Diamond（雙菱形）產品企劃方法論，引導使用者從 Discover → Define → Develop → Deliver 四個階段，系統性地完成產品企劃。
+  產品企劃實作框架引導工具。基於 Mr. PM 的產品企劃方法論，引導使用者從 Discover → Define → Develop → Deliver 四個階段，系統性地完成產品企劃。
 
   **務必在以下情境觸發此 skill：**
   - 當使用者說「我要做一個產品」「我想做個產品」「我想做產品企劃」

